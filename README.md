@@ -2,7 +2,7 @@
 
 
 
-This repository contains the data release for the paper [Generative Risk Minimization for Out-of-Distribution Generalization on Graphs](https://arxiv.org/pdf/2407.02408), published in TMLR 2025 Spotlight.
+This repository contains the data release for the paper [Generative Risk Minimization for Out-of-Distribution Generalization on Graphs](https://arxiv.org/pdf/2407.02408), published in TMLR 2025.
 
 
 ## Configuration
