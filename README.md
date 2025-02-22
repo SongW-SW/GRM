@@ -16,8 +16,6 @@ This repository contains the data release for the paper [Generative Risk Minimiz
 bash 
 ```
 
-The specific LLM for evaluation should be specified in the same bash file.
-
 ## Questions
 
 If you encounter any cases and need help, feel free to contact ```sw3wv@virginia.edu```. We are more than willing to help!
